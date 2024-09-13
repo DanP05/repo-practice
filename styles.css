@@ -1,0 +1,17 @@
+body{
+      background-color: blue;
+      color: yellow;
+
+}
+
+main{ 
+        background-color: white;
+        color: black;
+        width: 70%;
+        margin:0 auto
+}
+
+H1{ 
+       background-color: yellow;
+
+}
